@@ -1,8 +1,8 @@
 # Hi there, I'm Stefan
 
-I am a 19-year-old Dutch third-year Software Engineer major at the Amsterdam University of Applied Sciences.
+I am a 20-year-old Dutch fourth-year Software Engineer major at the Amsterdam University of Applied Sciences.
 
-I love working with software and hardware, and learn new techniques, languages and tools daily.
+I love working with both software and hardware, and I learn new techniques, languages and tools daily.
 
 My larger and more advanced projects are available over at my GitHub organization. You can find them [here](https://github.com/SVKruik-Organization), under [Active Projects](https://github.com/SVKruik#active-projects) below or pinned on my GitHub profile.
 
